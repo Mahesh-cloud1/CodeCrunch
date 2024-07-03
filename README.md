@@ -1,1 +1,2 @@
-# CodeCrunch Coding Practice Group 7 
+# CloudCoders - Coding Practice Group 7 
+Coding Practice: Problems, Assignments, Challenges
